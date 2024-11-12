@@ -15,20 +15,20 @@ Make sure you have the following software installed:
 - [Node.js](https://nodejs.org/)
 - npm (comes with Node.js)  
 
-### 1.Clone the Repository:
+### 1. Clone the Repository:
 
   ```sh
   git clone https://github.com/AliDeli80/box-button.git
   ```
 
-### 2.Install dependencies:
+### 2. Install dependencies:
 
   ```sh
   git cd react-sticky-notes
   npm install
   ```
 
-### 3.Start the development server:
+### 3. Start the development server:
 
   ```sh
   npm start
