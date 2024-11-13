@@ -24,7 +24,6 @@ Make sure you have the following software installed:
 ### 2. Install dependencies:
 
   ```sh
-  git cd react-sticky-notes
   npm install
   ```
 
